@@ -1,6 +1,6 @@
 # 「Captionee」
 <div style="text-align: center;">
-<img src=https://github.com/enpit2su-ics/team-E/blob/dev/Screenshot/LandingPage.png width=800px>
+<img src=https://github.com/enpit2su-ics/team-E/blob/master/Screenshot/LandingPage.png width=800px>
 </div>
 
 # チームE「(株)イー」
@@ -20,7 +20,7 @@
 <img src=https://github.com/enpit2su-ics/team-E/blob/master/Screenshot/ScreenShot2.png width=200px>     
 <img src=https://github.com/enpit2su-ics/team-E/blob/master/Screenshot/ScreenShot3.png width=200px>
 
-公式ホームページは[こちら](http://captionee.servehttp.com/help.html)  
+公式ホームページは[こちら](http://captionee.servehttp.com)  
 
 
 # 想定利用者像
